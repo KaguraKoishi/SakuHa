@@ -3,17 +3,28 @@
   <div id="banner_wave_2"></div>
   <figure id="centerbg" class="centerbg">
     <div class="focusinfo no-select">
-      <div class="header-tou">
-        <a href="<%- theme.url%>">
-         <h1 class="center-textpc center-textmb glitch is-glitching Ubuntu-font" data-text="Hi, izNyaku!">Hi, izNyaku!</h1>
-          <!-- <img src="<%- (theme.cdn || '') + theme.avatar %>"> -->  <!--这里注释掉了头像-->
-        </a>
+      <div class="header-love">
+        <div class="img-shiki">
+          <div class="avatarArea">
+            <img draggable="false" class="avatarFrame" src="/img/bluebird.gif">
+            <img draggable="false" src=/img/shiki-chan.png>
+          </div>
+        </div>
+        <div class="love-icon">
+          <img draggable="false" src="/img/like.svg">
+        </div>
+        <div class="img-koishi">
+          <div class="avatarArea">
+            <img draggable="false" class="avatarFrame" src="/img/redbird.gif">
+            <img draggable="false" src=/img/avatar.png>
+          </div>
+        </div>
       </div>
       <div class="header-info header-infosf">
        <p><i class="fa fa-quote-left"></i>&nbsp&nbsp<%= theme.description %>&nbsp&nbsp<i class="fa fa-quote-right"></i></p>
         <div class="top-social_v2">
           <li id="bg-pre">
-            <img class="flipx" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/next-b.svg">
+            <img class="flipx" src="https://jsd.onmicrosft.cn/gh/honjun/cdn@1.6/img/other/next-b.svg">
           </li>
           <% if (theme.social) {%>
             <% for (i in theme.social) {%>
@@ -36,7 +47,7 @@
             <% } %>
           <% } %>
           <li id="bg-next">
-            <img src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/next-b.svg">
+            <img src="https://jsd.onmicrosft.cn/gh/honjun/cdn@1.6/img/other/next-b.svg">
           </li>
         </div>
       </div>
