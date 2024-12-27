@@ -5,7 +5,7 @@ siteName: こいし
 favicon: /images/favicon.png
 avatar: /img/avatar.png
 url: https://vivy.kgr514.com
-description: 你好！这里是神楽こいし，一个VRChat玩家，一个MtF，请多指教~
+description: 你好！这里是こいし，一个VRChat玩家，一个MtF，请多指教~
 cdn: 
 pjax: 1
 # 1开启
@@ -69,8 +69,8 @@ msocial:
 
 #donate:
   #paypal: https://www.paypal.me/<username>
-  #alipay: https://jsd.onmicrosft.cn/gh/imouup/pico/picalipay.jpg
-  #wechat: https://jsd.onmicrosft.cn/gh/imouup/pico/picwechatpay.jpg
+  #alipay: https://jsd.onmicrosoft.cn/gh/imouup/pico/picalipay.jpg
+  #wechat: https://jsd.onmicrosoft.cn/gh/imouup/pico/picwechatpay.jpg
   #wechatSQ: /img/custom/donate/
 
 
@@ -109,7 +109,7 @@ waline:
   pageSize: 20
   placeholder: 来啊，快活啊！（Ctrl+Enter发送） # Comment Box placeholder
   requiredFields: [ 'nick','mail' ] #设置必填项
-  background: #https://jsd.onmicrosft.cn/gh/imouup/pico/pic74841737 (1).gif #输入框提示动画
+  background: #https://jsd.onmicrosoft.cn/gh/imouup/pico/pic74841737 (1).gif #输入框提示动画
   
 #不蒜子计数器
 busuanzi:

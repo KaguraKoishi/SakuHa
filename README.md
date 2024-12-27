@@ -1,9 +1,9 @@
  
- <div align=center><img src="https://jsd.onmicrosft.cn/gh/imouup/pico/picsakuha.png" width="400px">
+ <div align=center><img src="https://jsd.onmicrosoft.cn/gh/imouup/pico/picsakuha.png" width="400px">
  
 ### 抱歉，你可能找到了你想要的hexo theme
 
-![smile](https://jsd.onmicrosft.cn/gh/imouup/pico/picQQ20211226154916.jpg)
+![smile](https://jsd.onmicrosoft.cn/gh/imouup/pico/picQQ20211226154916.jpg)
 
 </div>
 </br>
@@ -40,7 +40,7 @@
 
 目前的实时效果：[我的blog](https://mouup.top)</br>
 
-<img src="https://jsd.onmicrosft.cn/gh/imouup/pico/picSakuHapc-SurfaceBook.png" width="900px" align=center title="这是张2k图">
+<img src="https://jsd.onmicrosoft.cn/gh/imouup/pico/picSakuHapc-SurfaceBook.png" width="900px" align=center title="这是张2k图">
 （背景画师:甘城なつき）</br>
 
 
